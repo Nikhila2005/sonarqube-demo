@@ -1,1 +1,1 @@
-# sonarqube-demo
+# sonarqube-demo-project
